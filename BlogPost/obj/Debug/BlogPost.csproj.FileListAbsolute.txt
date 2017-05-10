@@ -10,3 +10,15 @@ c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\
 c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.PostMod.resources
 c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.YTVidMod.resources
 C:\Users\Dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.ColorsMod.resources
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\bin\Debug\BlogPost.exe.config
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\bin\Debug\BlogPost.exe
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\bin\Debug\BlogPost.pdb
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.csprojResolveAssemblyReference.cache
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.ColorsMod.resources
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.PostMod.resources
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.StartPage.resources
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.Properties.Resources.resources
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.YTVidMod.resources
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.csproj.GenerateResource.Cache
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.exe
+C:\Users\Dartegnian\Documents\GitHub\Blog-Post-Helper\BlogPost\obj\Debug\BlogPost.pdb

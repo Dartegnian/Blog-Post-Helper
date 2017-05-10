@@ -54,7 +54,7 @@
             this.ConvertButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ConvertButton.Font = new System.Drawing.Font("Segoe UI Light", 18F);
             this.ConvertButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(163)))), ((int)(((byte)(82)))));
-            this.ConvertButton.Location = new System.Drawing.Point(447, 181);
+            this.ConvertButton.Location = new System.Drawing.Point(447, 183);
             this.ConvertButton.Name = "ConvertButton";
             this.ConvertButton.Size = new System.Drawing.Size(176, 58);
             this.ConvertButton.TabIndex = 4;
@@ -80,7 +80,7 @@
             this.ClearButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ClearButton.Font = new System.Drawing.Font("Segoe UI Light", 18F);
             this.ClearButton.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(163)))), ((int)(((byte)(82)))));
-            this.ClearButton.Location = new System.Drawing.Point(447, 245);
+            this.ClearButton.Location = new System.Drawing.Point(447, 247);
             this.ClearButton.Name = "ClearButton";
             this.ClearButton.Size = new System.Drawing.Size(176, 58);
             this.ClearButton.TabIndex = 7;
@@ -108,6 +108,7 @@
             this.OutputCode.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(253)))), ((int)(((byte)(163)))), ((int)(((byte)(82)))));
             this.OutputCode.Location = new System.Drawing.Point(629, 49);
             this.OutputCode.Name = "OutputCode";
+            this.OutputCode.ReadOnly = true;
             this.OutputCode.Size = new System.Drawing.Size(438, 396);
             this.OutputCode.TabIndex = 9;
             this.OutputCode.Text = "";

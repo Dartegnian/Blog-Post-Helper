@@ -56,6 +56,7 @@
             this.CustomPostStyles.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.CustomPostStyles.Location = new System.Drawing.Point(629, 50);
             this.CustomPostStyles.Name = "CustomPostStyles";
+            this.CustomPostStyles.ReadOnly = true;
             this.CustomPostStyles.Size = new System.Drawing.Size(438, 384);
             this.CustomPostStyles.TabIndex = 21;
             this.CustomPostStyles.Text = "";
@@ -64,13 +65,13 @@
             // 
             this.Color1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
             this.Color1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.Color1.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Color1.Font = new System.Drawing.Font("Segoe UI", 14F);
             this.Color1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.Color1.Location = new System.Drawing.Point(205, 132);
             this.Color1.Name = "Color1";
             this.Color1.Size = new System.Drawing.Size(235, 27);
             this.Color1.TabIndex = 20;
-            this.Color1.Text = "";
+            this.Color1.Text = "#";
             // 
             // ClearButton
             // 
@@ -152,13 +153,13 @@
             // 
             this.Color2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
             this.Color2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.Color2.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Color2.Font = new System.Drawing.Font("Segoe UI", 14F);
             this.Color2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.Color2.Location = new System.Drawing.Point(205, 176);
             this.Color2.Name = "Color2";
             this.Color2.Size = new System.Drawing.Size(235, 27);
             this.Color2.TabIndex = 23;
-            this.Color2.Text = "";
+            this.Color2.Text = "#";
             // 
             // label5
             // 
@@ -176,13 +177,13 @@
             // 
             this.Color3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
             this.Color3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.Color3.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Color3.Font = new System.Drawing.Font("Segoe UI", 14F);
             this.Color3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.Color3.Location = new System.Drawing.Point(205, 223);
             this.Color3.Name = "Color3";
             this.Color3.Size = new System.Drawing.Size(235, 27);
             this.Color3.TabIndex = 25;
-            this.Color3.Text = "";
+            this.Color3.Text = "#";
             // 
             // label6
             // 
@@ -200,13 +201,13 @@
             // 
             this.Color4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
             this.Color4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.Color4.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.Color4.Font = new System.Drawing.Font("Segoe UI", 14F);
             this.Color4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.Color4.Location = new System.Drawing.Point(205, 271);
             this.Color4.Name = "Color4";
             this.Color4.Size = new System.Drawing.Size(235, 27);
             this.Color4.TabIndex = 27;
-            this.Color4.Text = "";
+            this.Color4.Text = "#";
             // 
             // templateStyles
             // 
@@ -239,7 +240,7 @@
             this.headIMGURL.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(250)))), ((int)(((byte)(250)))));
             this.headIMGURL.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.headIMGURL.DetectUrls = false;
-            this.headIMGURL.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.headIMGURL.Font = new System.Drawing.Font("Segoe UI", 14F);
             this.headIMGURL.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.headIMGURL.Location = new System.Drawing.Point(205, 86);
             this.headIMGURL.Name = "headIMGURL";

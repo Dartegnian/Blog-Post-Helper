@@ -3,10 +3,9 @@ using System.Windows.Forms;
 
 namespace BlogPost
 {
-    public partial class Form1 : Form
+    public partial class StartPage : Form
     {
-        
-        public Form1()
+        public StartPage()
         {
             InitializeComponent();
         }
