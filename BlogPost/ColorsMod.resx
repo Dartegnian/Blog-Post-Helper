@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="templateStyles.Text" xml:space="preserve">
+    <value>&lt;style&gt;.menu-new{background:url(IMGURL);background-size:cover;-webkit-filter:blur(5px);-moz-filter:blur(5px);-o-filter:blur(5px);-ms-filter:blur(5px);filter:blur(5px)}.main-content-wrapper{background:CUSCOLOR1}.menu-new.clear:before{background:CUSCOLOR1}#outer-wrapper{background-color:CUSCOLOR1}::-webkit-scrollbar{background:CUSCOLOR1}.post-info{border-top:1px solid CUSCOLOR1;border-bottom:1px solid CUSCOLOR1}.post-entry{color:CUSCOLOR1}span.zippy{color:CUSCOLOR1}.BlogArchive #ArchiveList ul li{color:CUSCOLOR1;border-top:1px solid transparent}.sidebar h2:before{background:CUSCOLOR1}.post_social_share a,.post_social_share a:hover,.social li a i,.social li a i:hover{border:1px solid CUSCOLOR1}#sygattrib{color:CUSCOLOR1}#blog-pager-older-link{border-bottom:1px solid CUSCOLOR1}a.home-link{border-bottom:1px solid CUSCOLOR1}#blog-pager-newer-link{border-bottom:1px solid CUSCOLOR1}.post{background:CUSCOLOR2;border-top:1px solid transparent;border-bottom:1px solid transparent;border-left:1px solid transparent;border-right:1px solid transparent}#sidebartab .widget{background:CUSCOLOR2;border-top:1px solid transparent;border-bottom:1px solid transparent;border-left:1px solid transparent;border-right:1px solid transparent}.sidebar h2,.panel h2{color:white;background:CUSCOLOR2}#disqus_thread{background:CUSCOLOR2;border:1px solid transparent}footer#colophone{background-color:CUSCOLOR2}#top-comment h3{color:CUSCOLOR2}#searchexpandsubmit1,#sendemail{border:1px solid CUSCOLOR2}#blog-pager-older-link:hover{border-bottom:1px solid CUSCOLOR2}.post-info a{color:CUSCOLOR2}a.home-link:hover{border-bottom:1px solid CUSCOLOR2}#blog-pager a:hover{color:CUSCOLOR2}#blog-pager-newer-link:hover{border-bottom:1px solid CUSCOLOR2}p#titleseperator{color:CUSCOLOR2}.post-entry h3{color:CUSCOLOR3}a:link,a,a:hover,a:visited,.related_title{color:CUSCOLOR3}#searchexpandsubmit1,#sendemail,#searchexpandinput1{background:CUSCOLOR3;border:0px}::-webkit-scrollbar-thumb{background-color:CUSCOLOR3}footer#colophone #backtotop{background-color:CUSCOLOR3}footer#colophone #backtotop:hover{color:CUSCOLOR3}.navToggle{background:CUSCOLOR3}#blog-pager a{color:CUSCOLOR3}#sygdept{color:CUSCOLOR3;font-weight:bolder}#vernum{color:CUSCOLOR3}#menu li .fa:hover{color:CUSCOLOR3}#menu i.fa.fa-windows{color:CUSCOLOR3}.item-title b:hover{color:CUSCOLOR3}.entry-title{color:CUSCOLOR3}h3{color:CUSCOLOR3}h2.post-title a,h1.post-title a,h2.post-title,h1.post-title,.sidebar h2,.panel h2{color:CUSCOLOR3}a.timestamp-link{color:CUSCOLOR3}.vcard span{color:CUSCOLOR3}.post_social_share{border-top:1px solid CUSCOLOR3}span#Version,span#Version:hover{color:CUSCOLOR3}::selection{background:CUSCOLOR3}#menu ul li a:hover{color:CUSCOLOR3}#searchexpandsubmit1:hover,#sendemail:hover{color:CUSCOLOR3}.post_social_share a,.social li a i{color:CUSCOLOR3}.post-info a:hover{color:CUSCOLOR3}#searchexpandsubmit1,#sendemail,#searchexpandinput1{color:CUSCOLOR4}::selection{color:CUSCOLOR4}i.fa.fa-tags,i.fa.fa-calendar{color:CUSCOLOR4}span.zippy:hover{color:CUSCOLOR4}.navToggle .icon,.navToggle .icon:before,.navToggle .icon:after{background-color:CUSCOLOR4}.PopularPosts .item-snippet{color:CUSCOLOR4}p.description{color:CUSCOLOR4}.descriptionwrapper:after{color:CUSCOLOR4}.navToggle.open .icon:before,.navToggle.open .icon:after{background:CUSCOLOR4}.PopularPosts .item-snippet{color:CUSCOLOR4}.post_social_share a:hover,.social li a i:hover{color:CUSCOLOR4}.navToggle:hover .icon{background-color:CUSCOLOR4}.navToggle:hover .icon:before,.navToggle:hover .icon:after{background-color:CUSCOLOR4}span.label-info{color:CUSCOLOR4}#searchexpandsubmit1:hover,#sendemail:hover{background:CUSCOLOR4}p{color:CUSCOLOR4}footer#colophone #backtotop{color:CUSCOLOR4}footer#colophone #backtotop:hover{background-color:CUSCOLOR4}div#top-comment{background:transparent}.sidebar .list-label-widget-content{background:transparent}#blog-pager-newer-link{border-bottom:1px solid transparent}.list-label-widget-content li a{border-top:1px solid transparent;border-bottom:1px solid transparent}#sidebartab .popular-posts li{border-bottom:1px solid transparent}.descriptionwrapper:after{content:'Taking you back to the theaters';font-size:19px;font-weight:300;font-family:"Open Sans";font-style:italic}.descriptionwrapper span{display:none}.navToggle{border:0px}.navToggle.open:hover .icon{background-color: transparent}&lt;/style&gt;</value>
+  </data>
+</root>

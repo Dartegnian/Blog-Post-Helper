@@ -1,0 +1,12 @@
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\bin\Debug\BlogPost.exe.config
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\bin\Debug\BlogPost.exe
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\bin\Debug\BlogPost.pdb
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.csprojResolveAssemblyReference.cache
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.Form1.resources
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.Properties.Resources.resources
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.csproj.GenerateResource.Cache
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.exe
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.pdb
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.PostMod.resources
+c:\users\dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.YTVidMod.resources
+C:\Users\Dartegnian\documents\visual studio 2015\Projects\BlogPost\BlogPost\obj\Debug\BlogPost.ColorsMod.resources
