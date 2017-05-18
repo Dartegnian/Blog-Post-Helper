@@ -13,13 +13,13 @@ namespace BlogPost
         private void ConvertButton_Click(object sender, EventArgs e)
         {
             string styles;
-            string mainIMG = headIMGURL.Text;
-            mainIMG.Replace("s0", "s900");
             string COLOR1 = Color1.Text;
             string COLOR2 = Color2.Text;
             string COLOR3 = Color3.Text;
             string COLOR4 = Color4.Text;
             styles = templateStyles.Text;
+            string mainIMG = headIMGURL.Text;
+            mainIMG.Replace("s0", "s900");
             styles = styles.Replace("IMGURL", mainIMG);
             styles = styles.Replace("CUSCOLOR1", COLOR1);
             styles = styles.Replace("CUSCOLOR2", COLOR2);
