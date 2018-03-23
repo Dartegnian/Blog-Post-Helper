@@ -5,3 +5,5 @@ This is the program I developed to help me manage my posts on Blogger. Blogger d
 * Changing the quality of images by changing the "s1600" value in the URL of an image to "s0."
 * Embedding YouTube videos.
 * Adding custom styles to a post.
+
+This repository contains code written in C#.
