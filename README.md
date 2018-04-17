@@ -10,4 +10,4 @@ This is the program I developed to help me manage my posts on Blogger. Blogger d
 * Embedding YouTube videos.
 * Adding custom styles to a post.
 
-This repository contains code written in C#.
+This repository contains code that was written in C#.
